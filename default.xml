@@ -6,7 +6,7 @@
             revision="refs/tags/android-5.1.1_r5" />
 
     <remote name="aosp"
-            fetch="https://android.googlesource.com"
+            fetch="https://aosp.tuna.tsinghua.edu.cn"
             review="android-review.googlesource.com"
             revision="refs/tags/android-5.1.1_r26" />
 
